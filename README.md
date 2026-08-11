@@ -7,6 +7,10 @@ is. It lives in the menu bar: no Dock icon, no main window, no account.
 You bring your own API key, and the audio goes straight to the recognition
 service — there is no server of ours in between.
 
+<p align="center">
+  <img src="assets/screenshot.png" alt="VerbaLite" width="640">
+</p>
+
 ## Download
 
 Get `VerbaLite.zip` from the [latest release](https://github.com/karpovantonme/verbalite-releases/releases/latest),
