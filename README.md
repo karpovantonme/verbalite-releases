@@ -13,7 +13,7 @@ service — there is no server of ours in between.
 
 ## Download
 
-Get `VerbaLite.zip` from the [latest release](https://github.com/karpovantonme/verbalite-releases/releases/latest),
+Get `VerbaLite.zip` from the [latest release](https://github.com/karpovantonme/verbalite/releases/latest),
 unzip it, and drag `VerbaLite.app` into `/Applications`.
 
 The build is **ad-hoc signed** — there is no Apple Developer certificate behind
@@ -44,7 +44,7 @@ macOS 13 or later, and a free Groq API key from
 
 ## Looking for more?
 
-VerbaLite is the small free one. **[Verba](https://github.com/karpovantonme/verba-releases)**
+VerbaLite is the small free one. **[Verba](https://github.com/karpovantonme/verba)**
 is the full version — cleanup levels, dictation history, snippets, a learning
 vocabulary, six interface languages and automatic updates.
 
